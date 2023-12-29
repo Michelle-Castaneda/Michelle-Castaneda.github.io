@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #48abec;
+  color:burlywood;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color: #48abec;
+  color: burlywood;
 }
 
 .color-d {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #48abec;
+  background-color: burlywood;
 }
 
 .overlay-mf {
